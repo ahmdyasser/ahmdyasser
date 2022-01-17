@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdyasser&theme=ayu-mirage&layout=compact)
 <!--
 **ahmdyasser/ahmdyasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
