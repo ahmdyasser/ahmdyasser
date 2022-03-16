@@ -13,7 +13,7 @@ I'm Ahmad, an iOS developer and illustrator from Egypt.
 - Learning Kotlin and Java 🧑‍🏫
 - Studying algorithms and Data structrus with C++ 
 - Solving problems on Codeforces and Leetcode 💻
-- Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/)
+- Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/) 🧊
 - Reading some awesome books 📖
   - Dune 
   - Harry Potter and the Deathly Hallows     
