@@ -5,7 +5,6 @@ I'm Ahmad, an iOS developer and illustrator from Egypt.
 ## Wanna connect? 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmadyas_ser)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmdyasser)
-[![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/ahmadyassser)
 
 ## 🔭What am I curruntly doing?
 
