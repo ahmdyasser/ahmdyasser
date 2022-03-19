@@ -1,4 +1,4 @@
-### Hello Manara crew 👋,
+### Hello👋
 
 I'm Ahmad, an iOS developer and illustrator from Egypt.
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="300">
