@@ -6,7 +6,7 @@ I'm Ahmad, an iOS developer and illustrator from Egypt.
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmadyas_ser)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmdyasser)
 
-## 🔭What am I curruntly doing?
+## 🔭What am I currently doing?
 
 - Developing and designing an iOS app for [atharah](https://atharah.com) organization. 👾 🎨 
 - Studying algorithms and Data structrus with C++ 
