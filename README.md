@@ -9,7 +9,6 @@ I'm Ahmad, an iOS developer and illustrator from Egypt.
 ## 🔭What am I curruntly doing?
 
 - Developing and designing an iOS app for [atharah](https://atharah.com) organization. 👾 🎨 
-- Learning Kotlin and Java 🧑‍🏫
 - Studying algorithms and Data structrus with C++ 
 - Solving problems on Codeforces and Leetcode 💻
 - Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/) 🧊
