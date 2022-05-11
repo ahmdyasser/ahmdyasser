@@ -1,6 +1,6 @@
 ### Hello👋
 
-I'm Ahmad, an iOS developer and illustrator from Egypt.
+I'm Ahmad, an iOS developer 📱, Vapor 💧 contributor member and illustrator 🎨 from Egypt.
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="300">
 ## Want to connect? 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmadyas_ser)
@@ -8,9 +8,9 @@ I'm Ahmad, an iOS developer and illustrator from Egypt.
 
 ## 🔭What am I currently doing?
 
-- Developing and designing an iOS app for [atharah](https://atharah.com) organization. 👾 🎨 
-- Studying algorithms and Data structrus with C++ 
-- Solving problems on Codeforces and Leetcode 💻
+- Developing and designing an iOS app for [atharah](https://atharah.com) organization. 🦥
+- Studying algorithms and Data structrus with C++  🦦
+- Solving problems on Codeforces 🐳
 <!-- - Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/) 🧊
     -->
 
