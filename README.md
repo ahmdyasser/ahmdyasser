@@ -1,4 +1,4 @@
-### Hello👋
+### Heyo 👋
 
 I'm Ahmad, an iOS developer 📱, Vapor💧 team member and illustrator 🎨 from Egypt.
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="300">
@@ -9,8 +9,7 @@ I'm Ahmad, an iOS developer 📱, Vapor💧 team member and illustrator 🎨 fro
 ## 🔭What am I currently doing?
 
 - Developing and designing an iOS app for [atharah](https://atharah.com) organization. 🦥
-- Studying algorithms and Data structrus with C++  🦦
-- Solving problems on Codeforces 🐳
+- Brute forcing problems on Codeforces 🐳
 <!-- - Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/) 🧊
     -->
 
