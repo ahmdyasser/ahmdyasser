@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-I'm Ahmad, an iOS developer 📱, Vapor💧 team member and illustrator 🎨 from Egypt.
+I'm Ahmad, an iOS intern at Instabug 🐞, Vapor💧 team member and illustrator from Egypt.
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="300">
 <!-- ## Want to connect? 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmadyas_ser)
