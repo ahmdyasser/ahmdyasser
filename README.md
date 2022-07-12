@@ -1,15 +1,14 @@
-### Heyo 👋
-
-I'm an iOS intern at Instabug 🐞, Vapor💧 team member and illustrator from Egypt.
+## Hello 👋, I'm an iOS developer and illustrator from Egypt .
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="300">
 <!-- ## Want to connect? 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmadyas_ser)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmdyasser) -->
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&log=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmdyasser) -->
 
-## 🔭What am I currently doing?
-
+### 🔭What am I currently doing?
+- interning at Instabug 🐞
 - Developing and designing an iOS app for [atharah](https://atharah.com) organization. 🦥
 - Brute forcing problems on Codeforces 🐳
+
 <!-- - Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/) 🧊
     -->
 
