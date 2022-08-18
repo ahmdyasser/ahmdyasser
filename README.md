@@ -5,7 +5,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&log=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmdyasser) -->
 
 ### 🔭What am I currently doing?
-- Interning at Instabug 🐞
+- Squashing bugs at Instabug 🐞
 - Brute forcing problems on Codeforces 🐳
 
 <!-- - Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/) 🧊
