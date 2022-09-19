@@ -8,22 +8,19 @@
 - Making iOS stuff 🍎
 - Brute forcing problems on Codeforces 🐳
 
-<!-- - Building my portfolio website using Webflow: [ahmdyasser](http://ahmdyasser.webflow.io/) 🧊
-    -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ahmdyasser/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ahmadyas_ser)
 
 
+## Skills
 
-<!--
-**ahmdyasser/ahmdyasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/-Swift-informational?style=flat&logo=Swift&logoColor=white&color=black)
+![](https://img.shields.io/badge/-Objective--C-informational?style=flat&logo=C&logoColor=white&color=black)
+![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=black)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=black)
+![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/--informational?style=flat&logo=iOS&logoColor=black&color=white)
+![](https://img.shields.io/badge/-Xcode-informational?style=flat&logo=Xcode&logoColor=black&color=white)
+![](https://img.shields.io/badge/-CircleCI-informational?style=flat&logo=CircleCI&logoColor=black&color=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
