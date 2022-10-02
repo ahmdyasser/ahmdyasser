@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 
 ![](https://img.shields.io/badge/--informational?style=flat&logo=iOS&logoColor=black&color=white)
+![](https://img.shields.io/badge/-Bitrise-informational?style=flat&logo=Bitrise&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-Xcode-informational?style=flat&logo=Xcode&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-CircleCI-informational?style=flat&logo=CircleCI&logoColor=black&color=white)
 
