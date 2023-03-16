@@ -5,7 +5,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&log=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmdyasser) -->
 
 ### 🔭What am I currently doing?
-- Making iOS stuff 🍎
+- Doing iOS stuff 🍎
 - Brute forcing problems on Codeforces and Leetcode 🐳
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ahmdyasser/)
